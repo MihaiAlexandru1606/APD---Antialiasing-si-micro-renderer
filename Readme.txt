@@ -5,7 +5,7 @@ Nume : Niculescu
 Prenume : Mihai Alexandru
 Grupa : 335CB
 Sistem de operare : Ubuntu 18.04 LTS 64bit
-Editor : CLion
+Editor : CLion 
 Compilator : gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)
 Fisiere : homework.c homework1.c homework1.h Readme.txt
 
